@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**8 open roles · 1 new this week · 5,420 companies tracked · updated Oct 12, 2026 at 03:50 UTC**
+**8 open roles · 1 new this week · 5,420 companies tracked · updated Oct 12, 2026 at 11:38 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,12 +17,12 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Emerson Electric | Metrology Software Engineering Intern ~ 🆕 | Software | B.Tech/BS | DEBRECEN, HAJDÚ BIHAR, Hungary | Oct 12, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734) |
 | HackerRank | Software Development Engineer Intern | Software | ~₹40k–60k/mo (16–22 LPA)<br>B.Tech/BS | Onsite in Bangalore | Oct 01, 2026 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) |
 | AbhiBus | AI-Native Full Stack Developer Intern ~ | Data & ML/AI | ~₹20k–30k/mo (6–10 LPA)<br>B.Tech/BS | Hyderabad, TS, India | Oct 01, 2026 | [Apply](https://jobs.smartrecruiters.com/abhibus/744000152892832) |
 | Marvell | AI Intern ~ | Data & ML/AI | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Bangalore | Sep 30, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445) |
 | Thoughtworks | Software Procurement Intern ~ | Software | ~₹25k–35k/mo (9–13 LPA)<br>0-1 Yr<br>B.Tech/BS | Gurgaon, India; Pune, India | Sep 28, 2026 | [Apply](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
 | Altera Corporation | AI Automation Intern ~ | Data & ML/AI | ~₹40k–60k/mo (16–22 LPA) | Bengaluru, Karnataka, India | Sep 18, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117) |
-| Thoughtworks | Developer (Vapasi) - Intern ~ | Software | ~₹25k–35k/mo (9–13 LPA)<br>B.Tech/BS | Bangalore, India | Sep 17, 2026 | [Apply](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
 | Member Solutions | Cybersecurity GRC Intern ~ | Other | B.Tech/BS | India (Jonas Collections and Recovery I… | Dec 22, 2025 | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560) |
 | Valeo | Intern - AI ~ | Data & ML/AI | ~₹20k–30k/mo (6–9 LPA) | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 
@@ -104,10 +104,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _65 companies on the [full radar](https://rohan-droid7341.github.io/internship-engine-india/#radar). **30** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 9 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 10 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Thoughtworks | Developer (Vapasi) - Intern | Summer 2027 | 2026-10-12 |
 | Valeo | Intern - Software | Summer 2027 | 2026-10-08 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-08 |
 | GE Healthcare | Intern Data Analyst | Summer 2027 | 2026-10-07 |
@@ -135,7 +136,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,420 companies across 18 ATS platforms · 99% fetch success · completed in 315.3s · median detection latency 662 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,420 companies across 18 ATS platforms · 98% fetch success · completed in 345.9s · median detection latency 686 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 

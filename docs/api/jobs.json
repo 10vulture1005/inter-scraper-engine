@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-10-12T03:50:37Z",
+ "generated_at": "2026-10-12T11:38:53Z",
  "source": "https://github.com/Rohan-droid7341/internship-engine-india",
  "count": 8,
  "jobs": [
+  {
+   "id": "oracle:hdjq.fa.us2.oraclecloud.com:26011734",
+   "company": "Emerson Electric",
+   "title": "Metrology Software Engineering Intern",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "DEBRECEN, HAJDÚ BIHAR, Hungary",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734",
+   "posted_at": "2026-10-12",
+   "first_seen_at": "2026-10-12T11:38:52Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": null,
+   "estimated_ctc": null,
+   "pay_source": null,
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "greenhouse:hackerrank:8229735",
    "company": "HackerRank",
@@ -115,28 +134,6 @@
     "Git"
    ],
    "source": "workday"
-  },
-  {
-   "id": "greenhouse:thoughtworks:8210384",
-   "company": "Thoughtworks",
-   "title": "Developer (Vapasi) - Intern",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384",
-   "posted_at": "2026-09-17T03:51:28-04:00",
-   "first_seen_at": "2026-09-17T12:38:53Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹25k–35k/mo",
-   "estimated_ctc": "9–13 LPA",
-   "pay_source": "AmbitionBox / Glassdoor",
-   "skills": [
-    "Java",
-    "React"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:talentmanagementsolution:/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
