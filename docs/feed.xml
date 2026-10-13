@@ -5,7 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7341.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7341/internship-engine-india"/>
-  <updated>2026-10-13T02:28:47Z</updated>
+  <updated>2026-10-13T10:03:13Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159846</id>
+    <title>Honeywell: Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159846"/>
+    <updated>2026-10-13T10:03:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159863</id>
+    <title>Honeywell: Intern Bachelors Software Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159863"/>
+    <updated>2026-10-13T10:03:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Hyderabad, Telangana, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159866</id>
+    <title>Honeywell: Intern Bachelors Embedded Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159866"/>
+    <updated>2026-10-13T10:03:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA) · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:scopely:5448999008</id>
+    <title>Scopely: Intern - QA Engineer</title>
+    <link href="https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008"/>
+    <updated>2026-10-13T10:03:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · IN - Bangalore, India</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011734</id>
     <title>Emerson Electric: Metrology Software Engineering Intern</title>
@@ -45,6 +77,14 @@
     <updated>2026-09-30T16:43:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Bangalore · ~₹45k–65k/mo (18–24 LPA)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879</id>
+    <title>Marvell: Intern, Software Engineer</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879"/>
+    <updated>2026-09-24T11:02:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117</id>
