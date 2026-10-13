@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**13 open roles · 5 new this week · 5,425 companies tracked · updated Oct 13, 2026 at 10:03 UTC**
+**13 open roles · 5 new this week · 5,432 companies tracked · updated Oct 13, 2026 at 17:29 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,11 +17,11 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Airbus | Internship - DCC AI and Automation ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore Area | Oct 13, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231) |
+| Scopely | Intern - QA Engineer - Royal Lounge Casino ~ 🆕 | Software | B.Tech/BS | IN - Bangalore, India | Oct 13, 2026 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008) |
 | Honeywell | Intern Bachelors AI ~ 🆕 | Data & ML/AI | ~₹30k–45k/mo (9–14 LPA) | Bengaluru, Karnataka, India | Oct 13, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159846) |
 | Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Hyderabad, Telangana, India | Oct 13, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159863) |
 | Honeywell | Intern Bachelors Embedded Eng ~ 🆕 | Software | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Bengaluru, Karnataka, India | Oct 13, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159866) |
-| Scopely | Intern - QA Engineer ~ 🆕 | Software | B.Tech/BS | IN - Bangalore, India | Oct 13, 2026 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008) |
-| Emerson Electric | Metrology Software Engineering Intern ~ 🆕 | Software | B.Tech/BS | DEBRECEN, HAJDÚ BIHAR, Hungary | Oct 12, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734) |
 | HackerRank | Software Development Engineer Intern | Software | ~₹40k–60k/mo (16–22 LPA)<br>B.Tech/BS | Onsite in Bangalore | Oct 01, 2026 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) |
 | AbhiBus | AI-Native Full Stack Developer Intern ~ | Data & ML/AI | ~₹20k–30k/mo (6–10 LPA)<br>B.Tech/BS | Hyderabad, TS, India | Oct 01, 2026 | [Apply](https://jobs.smartrecruiters.com/abhibus/744000152892832) |
 | Marvell | AI Intern ~ | Data & ML/AI | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Bangalore | Sep 30, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445) |
@@ -109,10 +109,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _65 companies on the [full radar](https://rohan-droid7341.github.io/internship-engine-india/#radar). **30** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 8 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 9 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Emerson Electric | Metrology Software Engineering Intern | Summer 2027 | 2026-10-13 |
 | Thoughtworks | Developer (Vapasi) - Intern | Summer 2027 | 2026-10-12 |
 | Valeo | Intern - Software | Summer 2027 | 2026-10-08 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-08 |
@@ -139,7 +140,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,425 companies across 18 ATS platforms · 98% fetch success · completed in 323.8s · median detection latency 662 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,432 companies across 18 ATS platforms · 98% fetch success · completed in 383.3s · median detection latency 662 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
