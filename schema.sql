@@ -165,6 +165,45 @@ END;
 $$;
 
 -- ============================================================
+-- 9. Row-Level Security — harden all tables
+-- ============================================================
+-- The GitHub Actions scraper and the web app both use SUPABASE_SERVICE_KEY,
+-- which bypasses RLS entirely — no changes needed to db.py or web/app.py.
+-- The anon key (used only for the email-signup form) gets read access to
+-- tables whose data is already public on GitHub; internal state is locked down.
+
+-- Enable RLS on every pipeline table
+ALTER TABLE companies         ENABLE ROW LEVEL SECURITY;
+ALTER TABLE jobs              ENABLE ROW LEVEL SECURITY;
+ALTER TABLE company_health    ENABLE ROW LEVEL SECURITY;
+ALTER TABLE scrape_runs       ENABLE ROW LEVEL SECURITY;
+ALTER TABLE drop_observations ENABLE ROW LEVEL SECURITY;
+ALTER TABLE known_windows     ENABLE ROW LEVEL SECURITY;
+ALTER TABLE app_state         ENABLE ROW LEVEL SECURITY;
+
+-- Public read for non-sensitive tables (data is already public on GitHub)
+DO $$ BEGIN
+    IF NOT EXISTS (SELECT 1 FROM pg_policies WHERE tablename = 'companies' AND policyname = 'Public read companies') THEN
+        CREATE POLICY "Public read companies" ON companies FOR SELECT TO anon USING (true);
+    END IF;
+    IF NOT EXISTS (SELECT 1 FROM pg_policies WHERE tablename = 'jobs' AND policyname = 'Public read jobs') THEN
+        CREATE POLICY "Public read jobs" ON jobs FOR SELECT TO anon USING (true);
+    END IF;
+    IF NOT EXISTS (SELECT 1 FROM pg_policies WHERE tablename = 'scrape_runs' AND policyname = 'Public read scrape_runs') THEN
+        CREATE POLICY "Public read scrape_runs" ON scrape_runs FOR SELECT TO anon USING (true);
+    END IF;
+    IF NOT EXISTS (SELECT 1 FROM pg_policies WHERE tablename = 'drop_observations' AND policyname = 'Public read drop_observations') THEN
+        CREATE POLICY "Public read drop_observations" ON drop_observations FOR SELECT TO anon USING (true);
+    END IF;
+    IF NOT EXISTS (SELECT 1 FROM pg_policies WHERE tablename = 'known_windows' AND policyname = 'Public read known_windows') THEN
+        CREATE POLICY "Public read known_windows" ON known_windows FOR SELECT TO anon USING (true);
+    END IF;
+END $$;
+
+-- company_health and app_state: NO public access (internal state only).
+-- service_role bypasses RLS so the scraper still reads/writes fine.
+
+-- ============================================================
 -- Views
 -- ============================================================
 
