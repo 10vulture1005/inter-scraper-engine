@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-10-14T01:40:26Z",
+ "generated_at": "2026-10-14T07:03:25Z",
  "source": "https://github.com/Rohan-droid7341/internship-engine-india",
  "count": 12,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159828",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159828",
+   "posted_at": "2026-10-14",
+   "first_seen_at": "2026-10-14T07:03:25Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹30k–45k/mo",
+   "estimated_ctc": "9–14 LPA",
+   "pay_source": "AmbitionBox",
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "greenhouse:scopely:5448999008",
    "company": "Scopely",
@@ -21,25 +40,6 @@
    "pay_source": null,
    "skills": [],
    "source": "greenhouse"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159846",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159846",
-   "posted_at": "2026-10-13",
-   "first_seen_at": "2026-10-13T10:03:13Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "9–14 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [],
-   "source": "oracle"
   },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159863",
