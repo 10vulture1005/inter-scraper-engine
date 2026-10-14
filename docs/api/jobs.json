@@ -1,27 +1,8 @@
 {
- "generated_at": "2026-10-14T07:03:25Z",
+ "generated_at": "2026-10-14T12:47:14Z",
  "source": "https://github.com/Rohan-droid7341/internship-engine-india",
- "count": 12,
+ "count": 9,
  "jobs": [
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159828",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159828",
-   "posted_at": "2026-10-14",
-   "first_seen_at": "2026-10-14T07:03:25Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "9–14 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [],
-   "source": "oracle"
-  },
   {
    "id": "greenhouse:scopely:5448999008",
    "company": "Scopely",
@@ -40,50 +21,6 @@
    "pay_source": null,
    "skills": [],
    "source": "greenhouse"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159863",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159863",
-   "posted_at": "2026-10-13",
-   "first_seen_at": "2026-10-13T10:03:13Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "9–14 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159866",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Embedded Eng",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159866",
-   "posted_at": "2026-10-13",
-   "first_seen_at": "2026-10-13T10:03:13Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "9–14 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "greenhouse:hackerrank:8229735",
