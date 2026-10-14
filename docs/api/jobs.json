@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-10-14T17:49:44Z",
+ "generated_at": "2026-10-14T21:17:53Z",
  "source": "https://github.com/Rohan-droid7341/internship-engine-india",
- "count": 9,
+ "count": 10,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159740",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Madurai, Tamil Nadu, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159740",
+   "posted_at": "2026-10-14",
+   "first_seen_at": "2026-10-14T21:17:53Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹30k–45k/mo",
+   "estimated_ctc": "9–14 LPA",
+   "pay_source": "AmbitionBox",
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "greenhouse:scopely:5448999008",
    "company": "Scopely",
