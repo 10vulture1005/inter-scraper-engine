@@ -1,36 +1,8 @@
 {
- "generated_at": "2026-10-13T22:17:34Z",
+ "generated_at": "2026-10-14T01:40:26Z",
  "source": "https://github.com/Rohan-droid7341/internship-engine-india",
- "count": 13,
+ "count": 12,
  "jobs": [
-  {
-   "id": "workday:ag:/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
-   "company": "Airbus",
-   "title": "Internship - DCC AI and Automation",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore Area",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
-   "posted_at": "2026-10-13T00:00:00Z",
-   "first_seen_at": "2026-10-13T17:29:44Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": null,
-   "estimated_ctc": null,
-   "pay_source": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "React",
-    "Node.js",
-    "AWS",
-    "Linux",
-    "Spark"
-   ],
-   "source": "workday"
-  },
   {
    "id": "greenhouse:scopely:5448999008",
    "company": "Scopely",
