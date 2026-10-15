@@ -5,14 +5,38 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7341.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7341/internship-engine-india"/>
-  <updated>2026-10-15T05:33:47Z</updated>
+  <updated>2026-10-15T10:47:40Z</updated>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159740</id>
-    <title>Honeywell: Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159740"/>
-    <updated>2026-10-14T21:17:53Z</updated>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159805</id>
+    <title>Honeywell: Intern Bachelors AI Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159805"/>
+    <updated>2026-10-15T10:47:40Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Madurai, Tamil Nadu, India · ~₹30k–45k/mo (9–14 LPA)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA) · Python, SQL, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159975</id>
+    <title>Honeywell: Intern Bachelors Embedded Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159975"/>
+    <updated>2026-10-15T10:47:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Hyderabad, Telangana, India · ~₹30k–45k/mo (9–14 LPA) · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159818</id>
+    <title>Honeywell: Intern Bachelors Software Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159818"/>
+    <updated>2026-10-15T10:47:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Hyderabad, Telangana, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231</id>
+    <title>Marvell: Generative AI Forward Deployed Engineer Intern- Master's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231"/>
+    <updated>2026-10-15T10:47:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Bangalore · ~₹45k–65k/mo (18–24 LPA) · Python, Java, PyTorch, TensorFlow, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:scopely:5448999008</id>
@@ -55,20 +79,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Bangalore · ~₹45k–65k/mo (18–24 LPA)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879</id>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241</id>
     <title>Marvell: Intern, Software Engineer</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879"/>
-    <updated>2026-09-24T11:02:00Z</updated>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241"/>
+    <updated>2026-09-15T15:30:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117</id>
-    <title>Altera Corporation: AI Automation Intern</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117"/>
-    <updated>2026-09-18T22:19:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, Karnataka, India · ~₹40k–60k/mo (16–22 LPA) · Python, JavaScript, SQL, LLMs, Git</summary>
+    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python, Kubernetes, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:talentmanagementsolution:/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560</id>
