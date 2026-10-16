@@ -1,5 +1,5 @@
 [project]
-name = "internship-engine-india"
+name = "inter-scraper-engine"
 version = "0.1.0"
 description = "Automated tech internship engine for India"
 requires-python = ">=3.11"

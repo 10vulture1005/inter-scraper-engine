@@ -1,6 +1,6 @@
 # Project Context & AI Guidelines
 
-This document provides a concise, single-source-of-truth reference for AI assistants working on **`internship-engine-india`**.
+This document provides a concise, single-source-of-truth reference for AI assistants working on **`inter-scraper-engine`**.
 
 ---
 
@@ -15,7 +15,7 @@ This document provides a concise, single-source-of-truth reference for AI assist
 ## 2. Codebase Structure
 
 ```
-internship-engine-india/
+inter-scraper-engine/
 ├── data/
 │   ├── config.json          # Active cycles, regions (["India", "Remote"]), scope rules
 │   ├── companies.json       # Validated company ATS slugs (~5,211+ companies)

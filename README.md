@@ -1,6 +1,6 @@
 # Indian Tech Internships
 
-[![CI](https://github.com/Rohan-droid7341/internship-engine-india/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohan-droid7341/internship-engine-india/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Frohan-droid7341.github.io%2Finternship-engine-india%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://rohan-droid7341.github.io/internship-engine-india/feed.xml)
+[![CI](https://github.com/10vulture1005/inter-scraper-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/10vulture1005/inter-scraper-engine/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2F10vulture1005.github.io%2Finter-scraper-engine%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://10vulture1005.github.io/inter-scraper-engine/feed.xml)
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
@@ -8,9 +8,9 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
-**Live:** [dashboard](https://rohan-droid7341.github.io/internship-engine-india/) · [RSS feed](https://rohan-droid7341.github.io/internship-engine-india/feed.xml) (instant alerts in any RSS app) · [JSON API](https://rohan-droid7341.github.io/internship-engine-india/api/jobs.json)
+**Live:** [dashboard](https://10vulture1005.github.io/inter-scraper-engine/) · [RSS feed](https://10vulture1005.github.io/inter-scraper-engine/feed.xml) (instant alerts in any RSS app) · [JSON API](https://10vulture1005.github.io/inter-scraper-engine/api/jobs.json)
 
-**🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7341.github.io/internship-engine-india/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7341%2Finternship-engine-india%2Fmain%2Fdocs%2Ffeed.xml).)
+**🔔 New roles in your inbox:** [subscribe by email](https://10vulture1005.github.io/inter-scraper-engine/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2F10vulture1005%2Finter-scraper-engine%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
 ## Summer 2027  (10 open)
@@ -38,8 +38,8 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 
 - **📅 [Drop Radar](#drop-radar)** - the only list that shows **what's coming**: each marquee company's typical opening window, then confirmed with the real drop date the moment the engine catches it live.
 - **Real posted dates on every role** - pulled from each job portal itself, so newest-first actually means newest.
-- **Skill tags + pay, extracted** - every posting's text is scanned for the stack it wants (Python, C++, PyTorch, ...) and the pay it states - searchable on the [dashboard](https://rohan-droid7341.github.io/internship-engine-india/), included in the CSV and API.
-- **Alerts your way** - [email digests](https://rohan-droid7341.github.io/internship-engine-india/#subscribe), [RSS](https://rohan-droid7341.github.io/internship-engine-india/feed.xml), or Discord - plus a [live dashboard](https://rohan-droid7341.github.io/internship-engine-india/) with search and custom filters.
+- **Skill tags + pay, extracted** - every posting's text is scanned for the stack it wants (Python, C++, PyTorch, ...) and the pay it states - searchable on the [dashboard](https://10vulture1005.github.io/inter-scraper-engine/), included in the CSV and API.
+- **Alerts your way** - [email digests](https://10vulture1005.github.io/inter-scraper-engine/#subscribe), [RSS](https://10vulture1005.github.io/inter-scraper-engine/feed.xml), or Discord - plus a [live dashboard](https://10vulture1005.github.io/inter-scraper-engine/) with search and custom filters.
 - **An engine, not a spreadsheet** - polled every hour across multiple ATS platforms with full source in this repo.
 
 ## Scope
@@ -103,7 +103,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Datadog | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
 
-_65 companies on the [full radar](https://rohan-droid7341.github.io/internship-engine-india/#radar). **30** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_65 companies on the [full radar](https://10vulture1005.github.io/inter-scraper-engine/#radar). **30** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 19 roles taken down in the last 14 days</summary>

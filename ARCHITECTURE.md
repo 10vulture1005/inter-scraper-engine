@@ -1,6 +1,6 @@
 # Architecture
 
-[![CI](https://github.com/Rohan-droid7341/internship-engine-india/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohan-droid7341/internship-engine-india/actions/workflows/ci.yml)
+[![CI](https://github.com/10vulture1005/inter-scraper-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/10vulture1005/inter-scraper-engine/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![async](https://img.shields.io/badge/I%2FO-async%20httpx-success)
 

@@ -26,7 +26,7 @@ DEFAULTS = {
     "role_scope": "tech",
 }
 
-_FALLBACK_REPO = "Rohan-droid7341/internship-engine-india"
+_FALLBACK_REPO = "10vulture1005/inter-scraper-engine"
 
 
 def repo_slug() -> str:

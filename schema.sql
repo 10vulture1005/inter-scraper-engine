@@ -1,4 +1,4 @@
--- internship-engine-india: Postgres schema (Supabase)
+-- inter-scraper-engine: Postgres schema (Supabase)
 --
 -- This file is the version-controlled source of truth for the database.
 -- Apply with:  psql $DATABASE_URL -f schema.sql
