@@ -4,16 +4,19 @@ PRODID:-//intern-engine//Drop Radar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Internship Drop Radar (Summer 2027)
-X-WR-CALDESC:Expected opening dates for tech internships. Verified from live career-page data + hand-checked windows.
+X-WR-CALDESC:Expected opening dates for tech internships. Verified from liv
+ e career-page data + hand-checked windows.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:radar-citadel-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Citadel — typically opens (Summer 2027)
-DESCRIPTION:Citadel typically opens around this date.  hand-verified typical opening month (month-level)  Aug-Oct  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Citadel typically opens around this date.  hand-verified typica
+ l opening month (month-level)  Aug-Oct  Radar: https://10vulture1005.githu
+ b.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -23,11 +26,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-citadelsecurities-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Citadel Securities — typically opens (Summer 2027)
-DESCRIPTION:Citadel Securities typically opens around this date.  hand-verified typical opening month (month-level)  Aug-Oct  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Citadel Securities typically opens around this date.  hand-veri
+ fied typical opening month (month-level)  Aug-Oct  Radar: https://10vultur
+ e1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -37,11 +42,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-databricks-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Databricks — typically opens (Summer 2027)
-DESCRIPTION:Databricks typically opens around this date.  hand-verified typical opening month (month-level)  rolling from Aug  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Databricks typically opens around this date.  hand-verified typ
+ ical opening month (month-level)  rolling from Aug  Radar: https://10vultu
+ re1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -51,11 +58,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-doordash-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:DoorDash — typically opens (Summer 2027)
-DESCRIPTION:DoorDash typically opens around this date.  hand-verified typical opening month (month-level)  opens ~Aug-Sep  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:DoorDash typically opens around this date.  hand-verified typic
+ al opening month (month-level)  opens ~Aug-Sep  Radar: https://10vulture10
+ 05.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -65,11 +74,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-drw-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:DRW — typically opens (Summer 2027)
-DESCRIPTION:DRW typically opens around this date.  hand-verified typical opening month (month-level)  opens ~Aug\, early mover  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:DRW typically opens around this date.  hand-verified typical op
+ ening month (month-level)  opens ~Aug\, early mover  Radar: https://10vult
+ ure1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -79,11 +90,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-google-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Google — typically opens (Summer 2027)
-DESCRIPTION:Google typically opens around this date.  hand-verified typical opening month (month-level)  Aug-Oct main window  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Google typically opens around this date.  hand-verified typical
+  opening month (month-level)  Aug-Oct main window  Radar: https://10vultur
+ e1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -93,11 +106,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-janestreet-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Jane Street — typically opens (Summer 2027)
-DESCRIPTION:Jane Street typically opens around this date.  hand-verified typical opening month (month-level)  opens ~Aug\, rolling  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Jane Street typically opens around this date.  hand-verified ty
+ pical opening month (month-level)  opens ~Aug\, rolling  Radar: https://10
+ vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -107,11 +122,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-meta-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Meta — typically opens (Summer 2027)
-DESCRIPTION:Meta typically opens around this date.  hand-verified typical opening month (month-level)  late Aug\, rolling into Nov  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Meta typically opens around this date.  hand-verified typical o
+ pening month (month-level)  late Aug\, rolling into Nov  Radar: https://10
+ vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -121,11 +138,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-optiver-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Optiver — typically opens (Summer 2027)
-DESCRIPTION:Optiver typically opens around this date.  hand-verified typical opening month (month-level)  opens ~Aug for next summer  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Optiver typically opens around this date.  hand-verified typica
+ l opening month (month-level)  opens ~Aug for next summer  Radar: https://
+ 10vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -135,11 +154,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-pinterest-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Pinterest — typically opens (Summer 2027)
-DESCRIPTION:Pinterest typically opens around this date.  hand-verified typical opening month (month-level)  opens late summer for next year  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Pinterest typically opens around this date.  hand-verified typi
+ cal opening month (month-level)  opens late summer for next year  Radar: h
+ ttps://10vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -149,11 +170,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-salesforce-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Salesforce — typically opens (Summer 2027)
-DESCRIPTION:Salesforce typically opens around this date.  hand-verified typical opening month (month-level)  Futureforce\, opens late summer  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Salesforce typically opens around this date.  hand-verified typ
+ ical opening month (month-level)  Futureforce\, opens late summer  Radar: 
+ https://10vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -163,11 +186,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-sig-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:SIG — typically opens (Summer 2027)
-DESCRIPTION:SIG typically opens around this date.  hand-verified typical opening month (month-level)  Susquehanna\, opens ~Aug  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:SIG typically opens around this date.  hand-verified typical op
+ ening month (month-level)  Susquehanna\, opens ~Aug  Radar: https://10vult
+ ure1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -177,11 +202,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-snowflake-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Snowflake — typically opens (Summer 2027)
-DESCRIPTION:Snowflake typically opens around this date.  hand-verified typical opening month (month-level)  opens ~Aug\, rolling  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Snowflake typically opens around this date.  hand-verified typi
+ cal opening month (month-level)  opens ~Aug\, rolling  Radar: https://10vu
+ lture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -191,11 +218,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-uber-20260801@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Uber — typically opens (Summer 2027)
-DESCRIPTION:Uber typically opens around this date.  hand-verified typical opening month (month-level)  opens late summer\, rolling  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Uber typically opens around this date.  hand-verified typical o
+ pening month (month-level)  opens late summer\, rolling  Radar: https://10
+ vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -205,11 +234,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-adobe-20260901@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Adobe — typically opens (Summer 2027)
-DESCRIPTION:Adobe typically opens around this date.  hand-verified typical opening month (month-level)  Sep-Oct main window  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Adobe typically opens around this date.  hand-verified typical 
+ opening month (month-level)  Sep-Oct main window  Radar: https://10vulture
+ 1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -219,11 +250,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-airbnb-20260901@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Airbnb — typically opens (Summer 2027)
-DESCRIPTION:Airbnb typically opens around this date.  hand-verified typical opening month (month-level)  opens ~Sep  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Airbnb typically opens around this date.  hand-verified typical
+  opening month (month-level)  opens ~Sep  Radar: https://10vulture1005.git
+ hub.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -233,11 +266,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-bloomberg-20260901@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Bloomberg — typically opens (Summer 2027)
-DESCRIPTION:Bloomberg typically opens around this date.  hand-verified typical opening month (month-level)  opens early fall\, rolling review  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Bloomberg typically opens around this date.  hand-verified typi
+ cal opening month (month-level)  opens early fall\, rolling review  Radar:
+  https://10vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -247,11 +282,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-dropbox-20260901@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Dropbox — typically opens (Summer 2027)
-DESCRIPTION:Dropbox typically opens around this date.  hand-verified typical opening month (month-level)  opens ~Sep  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Dropbox typically opens around this date.  hand-verified typica
+ l opening month (month-level)  opens ~Sep  Radar: https://10vulture1005.gi
+ thub.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -261,11 +298,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-plaid-20260901@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Plaid — typically opens (Summer 2027)
-DESCRIPTION:Plaid typically opens around this date.  hand-verified typical opening month (month-level)  opens fall  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Plaid typically opens around this date.  hand-verified typical 
+ opening month (month-level)  opens fall  Radar: https://10vulture1005.gith
+ ub.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -275,11 +314,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-point72-20260901@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Point72 — typically opens (Summer 2027)
-DESCRIPTION:Point72 typically opens around this date.  hand-verified typical opening month (month-level)  Cubist/academy\, opens fall  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Point72 typically opens around this date.  hand-verified typica
+ l opening month (month-level)  Cubist/academy\, opens fall  Radar: https:/
+ /10vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -289,11 +330,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-robinhood-20260901@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Robinhood — typically opens (Summer 2027)
-DESCRIPTION:Robinhood typically opens around this date.  hand-verified typical opening month (month-level)  opens fall  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Robinhood typically opens around this date.  hand-verified typi
+ cal opening month (month-level)  opens fall  Radar: https://10vulture1005.
+ github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -303,11 +346,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-roblox-20260901@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Roblox — typically opens (Summer 2027)
-DESCRIPTION:Roblox typically opens around this date.  hand-verified typical opening month (month-level)  opens fall for next summer  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Roblox typically opens around this date.  hand-verified typical
+  opening month (month-level)  opens fall for next summer  Radar: https://1
+ 0vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -317,11 +362,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-stripe-20260901@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Stripe — typically opens (Summer 2027)
-DESCRIPTION:Stripe typically opens around this date.  hand-verified typical opening month (month-level)  early Sept\, closes mid-Nov  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Stripe typically opens around this date.  hand-verified typical
+  opening month (month-level)  early Sept\, closes mid-Nov  Radar: https://
+ 10vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -331,11 +378,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-deshaw-20261001@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:D.E. Shaw — typically opens (Summer 2027)
-DESCRIPTION:D.E. Shaw typically opens around this date.  hand-verified typical opening month (month-level)  apply by end of prior year\; class set early Q1  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:D.E. Shaw typically opens around this date.  hand-verified typi
+ cal opening month (month-level)  apply by end of prior year\; class set ea
+ rly Q1  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -345,11 +394,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-coinbase-20261201@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Coinbase — typically opens (Summer 2027)
-DESCRIPTION:Coinbase typically opens around this date.  hand-verified typical opening month (month-level)  Dec-Jan\, peak hiring Feb  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Coinbase typically opens around this date.  hand-verified typic
+ al opening month (month-level)  Dec-Jan\, peak hiring Feb  Radar: https://
+ 10vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -359,11 +410,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-ramp-20261201@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Ramp — typically opens (Summer 2027)
-DESCRIPTION:Ramp typically opens around this date.  hand-verified typical opening month (month-level)  Dec-Jan early movers  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Ramp typically opens around this date.  hand-verified typical o
+ pening month (month-level)  Dec-Jan early movers  Radar: https://10vulture
+ 1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -373,11 +426,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-twosigma-20261201@intern-engine
-DTSTAMP:20261016T103410Z
+DTSTAMP:20261016T183813Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Two Sigma — typically opens (Summer 2027)
-DESCRIPTION:Two Sigma typically opens around this date.  hand-verified typical opening month (month-level)  opens ~Dec\, deadline late Feb  Radar: https://10vulture1005.github.io/inter-scraper-engine/#radar
+DESCRIPTION:Two Sigma typically opens around this date.  hand-verified typi
+ cal opening month (month-level)  opens ~Dec\, deadline late Feb  Radar: ht
+ tps://10vulture1005.github.io/inter-scraper-engine/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
