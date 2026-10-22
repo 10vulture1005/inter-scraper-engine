@@ -5,14 +5,22 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://10vulture1005.github.io/inter-scraper-engine/feed.xml" rel="self"/>
   <link href="https://github.com/10vulture1005/inter-scraper-engine"/>
-  <updated>2026-10-22T12:47:52Z</updated>
+  <updated>2026-10-22T18:06:13Z</updated>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160473</id>
-    <title>Honeywell: Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473"/>
-    <updated>2026-10-22T12:47:52Z</updated>
+    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
+    <title>Marvell: Software Validation Intern - Master's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870"/>
+    <updated>2026-10-22T18:06:13Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA)</summary>
+    <summary>Summer 2027 · Software · Bangalore · ~₹45k–65k/mo (18–24 LPA)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868</id>
+    <title>Marvell: Software Engineer Intern - Master's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868"/>
+    <updated>2026-10-22T18:06:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bangalore · ~₹45k–65k/mo (18–24 LPA) · Python, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159821</id>
@@ -21,6 +29,14 @@
     <updated>2026-10-22T12:47:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA) · Python, SQL, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160473</id>
+    <title>Honeywell: Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473"/>
+    <updated>2026-10-22T12:47:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160479</id>
