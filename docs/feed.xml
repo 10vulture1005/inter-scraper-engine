@@ -5,15 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://10vulture1005.github.io/inter-scraper-engine/feed.xml" rel="self"/>
   <link href="https://github.com/10vulture1005/inter-scraper-engine"/>
-  <updated>2026-10-23T11:03:55Z</updated>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250</id>
-    <title>Marvell: Intern, Software QA Engineer - Bachelor's Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250"/>
-    <updated>2026-10-23T11:03:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python</summary>
-  </entry>
+  <updated>2026-10-23T15:39:43Z</updated>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624</id>
     <title>Marvell: Intern, Software Engineer - Bachelor's Degree</title>
@@ -21,6 +13,14 @@
     <updated>2026-10-23T11:03:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python, Rust, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250</id>
+    <title>Marvell: Intern, Software QA Engineer - Bachelor's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250"/>
+    <updated>2026-10-23T11:03:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732</id>
