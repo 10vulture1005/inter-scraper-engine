@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T15:39:43Z",
+ "generated_at": "2026-10-23T19:58:36Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/10vulture1005/inter-scraper-engine",
  "companies": [
@@ -701,7 +701,7 @@
    "days_until": -102,
    "status": "dropped",
    "url": "",
-   "note": ""
+   "note": "opens fall, closes early Feb"
   },
   {
    "company": "Hudson River Trading",
@@ -715,7 +715,7 @@
    "days_until": -102,
    "status": "dropped",
    "url": "",
-   "note": "opens fall, closes early Feb"
+   "note": ""
   },
   {
    "company": "Five Rings",
