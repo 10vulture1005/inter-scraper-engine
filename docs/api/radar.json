@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T06:48:13Z",
+ "generated_at": "2026-10-24T11:51:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/10vulture1005/inter-scraper-engine",
  "companies": [
@@ -631,7 +631,7 @@
    "days_until": -111,
    "status": "dropped",
    "url": "",
-   "note": ""
+   "note": "opens ~Aug-Sep"
   },
   {
    "company": "Tower Research Capital",
@@ -645,7 +645,7 @@
    "days_until": -111,
    "status": "dropped",
    "url": "",
-   "note": "opens ~Aug-Sep"
+   "note": ""
   },
   {
    "company": "Northrop Grumman",
@@ -729,7 +729,7 @@
    "days_until": -102,
    "status": "dropped",
    "url": "",
-   "note": "opens ~Aug, very early"
+   "note": ""
   },
   {
    "company": "Five Rings",
@@ -743,7 +743,7 @@
    "days_until": -102,
    "status": "dropped",
    "url": "",
-   "note": ""
+   "note": "opens ~Aug, very early"
   },
   {
    "company": "The Trade Desk",
