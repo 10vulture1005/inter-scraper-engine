@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T01:22:51Z",
- "duration_seconds": 355.5,
+ "generated_at": "2026-10-24T06:48:13Z",
+ "duration_seconds": 312.8,
  "companies_total": 5519,
  "companies_by_source": {
   "greenhouse": 1176,
@@ -22,29 +22,30 @@
   "eightfold": 1,
   "wellfound": 1
  },
- "quarantined": 451,
- "fetched_ok": 4991,
- "fetch_errors": 77,
+ "quarantined": 421,
+ "fetched_ok": 3744,
+ "fetch_errors": 1354,
  "errors_by_source": {
-  "workday": 69,
-  "rippling": 1,
-  "internshala": 6,
-  "greenhouse": 1
+  "workday": 1326,
+  "ashby": 8,
+  "greenhouse": 7,
+  "workable": 8,
+  "lever": 5
  },
- "fetch_success_rate": 0.985,
- "roles_matched": 14,
- "roles_cycle_inferred": 13,
+ "fetch_success_rate": 0.734,
+ "roles_matched": 4,
+ "roles_cycle_inferred": 3,
  "dropped_no_year_in_title": 389,
- "dropped_offcycle_by_text": 115,
+ "dropped_offcycle_by_text": 89,
  "roles_by_source": {
   "greenhouse": 2,
-  "workday": 12
+  "workday": 2
  },
  "roles_by_cycle": {
-  "Summer 2027": 14
+  "Summer 2027": 4
  },
  "roles_by_region": {
-  "India": 14
+  "India": 4
  },
  "posted_date_coverage": 1.0,
  "enriched_this_run": 0,
